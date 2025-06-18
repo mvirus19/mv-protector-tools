@@ -1,5 +1,6 @@
 {
   "status": "ok",
   "Dialog": "Hi",
-  "Approval":"On"
+  "Approval":"On",
+  "Success": "Ok"
 }
