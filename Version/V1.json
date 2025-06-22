@@ -1,6 +1,3 @@
 {
-  "status": "ok",
-  "Dialog": "Hi",
-  "Approval":"On",
-  "Working":"Good"
+  "valid": "ok"
 }
